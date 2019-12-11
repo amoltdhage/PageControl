@@ -6,4 +6,5 @@ This application as universal designed to run on both iPhone and iPad devices.
 
 
 
-Copyright (C) 2010-2017 Apple Inc. All rights reserved.
+Copyright (C) 2010-2019
+Apple Inc. All rights reserved.
